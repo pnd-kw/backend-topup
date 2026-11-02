@@ -29,23 +29,25 @@ The primary areas of exploration include:
 
 ### Currently Used
 
-| Technology | Purpose                               |
-| Node.js    | JavaScript runtime                    |
-| TypeScript | Type-safe development                 |
+| Technology | Purpose |
+|---|---|
+| Node.js | JavaScript runtime |
+| TypeScript | Type-safe development |
 | Prisma ORM | Database access and schema management |
-| PostgreSQL | Relational database                   |
-| Jest       | Automated testing                     |
+| PostgreSQL | Relational database |
+| Jest | Automated testing |
 
 ### Planned Exploration
 
-| Technology           | Purpose                                     |
-| Redis                | Caching and distributed rate limiting       |
-| RabbitMQ / Kafka     | Asynchronous messaging and event processing |
-| Docker               | Application containerization                |
-| GitHub Actions       | CI/CD automation                            |
-| k6                   | Load and performance testing                |
-| OpenTelemetry        | Distributed tracing                         |
-| Prometheus & Grafana | Metrics and monitoring                      |
+| Technology | Purpose |
+|---|---|
+| Redis | Caching and distributed rate limiting |
+| RabbitMQ / Kafka | Asynchronous messaging and event processing |
+| Docker | Application containerization |
+| GitHub Actions | CI/CD automation |
+| k6 | Load and performance testing |
+| OpenTelemetry | Distributed tracing |
+| Prometheus & Grafana | Metrics and monitoring |
 
 *Planned technologies may change based on project requirements and learning progress.*
 
@@ -184,14 +186,15 @@ Throughout development, the following principles will guide technical decisions:
 
 Additional documentation will be maintained as the project evolves.
 
-| Document                 | Description                                 |
+| Document | Description |
+|---|---|
 | `docs/PROJECT-STATUS.md` | Current development progress and next steps |
-| `docs/ROADMAP.md`        | Detailed development milestones             |
-| `docs/ARCHITECTURE.md`   | System architecture and design              |
-| `docs/DECISIONS/`        | Architecture Decision Records (ADR)         |
+| `docs/ROADMAP.md` | Detailed development milestones |
+| `docs/ARCHITECTURE.md` | System architecture and design |
+| `docs/DECISIONS/` | Architecture Decision Records (ADR) |
 
 ## Author
 
 Developed as a personal backend engineering learning project.
 
-GitHub: [@pnd-kw](https://github.com/pnd-kw)
+GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
