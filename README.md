@@ -197,4 +197,4 @@ Additional documentation will be maintained as the project evolves.
 
 Developed as a personal backend engineering learning project.
 
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [@pnd-kw](https://github.com/pnd-kw)
