@@ -13,10 +13,10 @@ datasource db {
 }
 
 model User {
-  id        Int       @id @default(autoincrement())
+  id        Int      @id @default(autoincrement())
   name      String
-  balance   Int       @default(0)
-  createdAt DateTime  @default(now())
+  balance   Int      @default(0)
+  createdAt DateTime @default(now())
 
   transactions Transaction[]
 }
